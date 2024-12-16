@@ -1,4 +1,4 @@
-# 3-Tier-Highly-Available-and-Scalable-AWS-Infrastructure-using-Terraform-Project
+# 3-Tier Highly Available and Scalable AWS Infrastructure using Terraform Project
 ![WhatsApp Image 2024-12-05 at 10 02 03_a9091818](https://github.com/user-attachments/assets/aa1de379-2b7a-4a18-9188-f600f98be5d6)
 
 
