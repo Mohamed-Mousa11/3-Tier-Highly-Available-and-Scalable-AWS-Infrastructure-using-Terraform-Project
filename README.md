@@ -193,9 +193,3 @@ The infrastructure provides the following outputs:
 - Add Elastic Block Storage (EBS) volumes for EC2 instances.
 
 ---
-
-Feel free to customize the infrastructure according to your requirements! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
-
----
-
-### **End of Documentation**
